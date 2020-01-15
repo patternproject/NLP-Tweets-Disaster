@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 
 Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). This is the repository for team (we still didn't decide about its name) in the Kaggle [Competition Real or Not? NLP with Disaster Tweets] (https://www.kaggle.com/c/nlp-getting-started). The purpose of this competition is to build a model that predicts which Tweets are about real disasters and which one’s aren’t.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). This is the repository for team BEAR in the Kaggle [Competition Real or Not? NLP with Disaster Tweets] (https://www.kaggle.com/c/nlp-getting-started). The purpose of this competition is to build a model that predicts which Tweets are about real disasters and which one’s aren’t.
 
 <h2>Data</h2>
 
